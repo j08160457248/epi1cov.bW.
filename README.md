@@ -1,2 +1,2 @@
-# epi1cov.bW.
-Methylation
+# DNA methylation
+methylated and coverage bigwig files
